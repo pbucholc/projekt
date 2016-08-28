@@ -1,5 +1,5 @@
 # projekt
-Gra jest projektem na zaliczenie. 
+Gra jest projektem na zaliczenie napisana w C++. 
 Gra polega na strzelaniu do spadających na nas stworków. Zbieramy 40 punktów w czasie 1 minuty, aby przejść do następnego levelu.
 Z każdym levelem stworki spadają szybciej. 
 Dostępne są 3 życia na level. Stworek nie może nas dotknąć, bo wtedy zginiemy-odejmuje się jedno życie. 
